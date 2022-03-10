@@ -3,14 +3,15 @@
 # Analysis of the business situation of the company DATAMART
 
 
-<img src="fotos/portada.jpeg?raw=true" width="800" height="200" />
+<img src="fotos/portada.jpeg?raw=true" width="400" height="200" />
 
 **TARGET**
 
 The objective of this project is the analysis of the situation of a shopping center (unreal name) during a specific period of time.
 
 **STRUCTURE**
-<img src = "fotos/foto1.png?raw=true" width="800" height="200">
+
+<img src = "fotos/foto1.png?raw=true" width="400" height="200">
 
 The information is distributed in the following folders:
 
@@ -34,7 +35,7 @@ In order to study whether the distance between stores and customers affects the 
 
 **CONCLUSIONS**
 
-<img src = "fotos/foto2.png?raw=true" width="800" height="200">
+<img src = "fotos/foto2.png?raw=true" width="400" height="200">
 
 After studying and analyzing the data, we can state the following:
 
